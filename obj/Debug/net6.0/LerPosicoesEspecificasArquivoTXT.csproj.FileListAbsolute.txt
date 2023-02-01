@@ -1,0 +1,15 @@
+D:\Estudo de Desenvolvimento\CSharp\LerPosicoesEspecificasArquivoTXT\bin\Debug\net6.0\LerPosicoesEspecificasArquivoTXT.exe
+D:\Estudo de Desenvolvimento\CSharp\LerPosicoesEspecificasArquivoTXT\bin\Debug\net6.0\LerPosicoesEspecificasArquivoTXT.deps.json
+D:\Estudo de Desenvolvimento\CSharp\LerPosicoesEspecificasArquivoTXT\bin\Debug\net6.0\LerPosicoesEspecificasArquivoTXT.runtimeconfig.json
+D:\Estudo de Desenvolvimento\CSharp\LerPosicoesEspecificasArquivoTXT\bin\Debug\net6.0\LerPosicoesEspecificasArquivoTXT.dll
+D:\Estudo de Desenvolvimento\CSharp\LerPosicoesEspecificasArquivoTXT\bin\Debug\net6.0\LerPosicoesEspecificasArquivoTXT.pdb
+D:\Estudo de Desenvolvimento\CSharp\LerPosicoesEspecificasArquivoTXT\obj\Debug\net6.0\LerPosicoesEspecificasArquivoTXT.csproj.AssemblyReference.cache
+D:\Estudo de Desenvolvimento\CSharp\LerPosicoesEspecificasArquivoTXT\obj\Debug\net6.0\LerPosicoesEspecificasArquivoTXT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo de Desenvolvimento\CSharp\LerPosicoesEspecificasArquivoTXT\obj\Debug\net6.0\LerPosicoesEspecificasArquivoTXT.AssemblyInfoInputs.cache
+D:\Estudo de Desenvolvimento\CSharp\LerPosicoesEspecificasArquivoTXT\obj\Debug\net6.0\LerPosicoesEspecificasArquivoTXT.AssemblyInfo.cs
+D:\Estudo de Desenvolvimento\CSharp\LerPosicoesEspecificasArquivoTXT\obj\Debug\net6.0\LerPosicoesEspecificasArquivoTXT.csproj.CoreCompileInputs.cache
+D:\Estudo de Desenvolvimento\CSharp\LerPosicoesEspecificasArquivoTXT\obj\Debug\net6.0\LerPosicoesEspecificasArquivoTXT.dll
+D:\Estudo de Desenvolvimento\CSharp\LerPosicoesEspecificasArquivoTXT\obj\Debug\net6.0\refint\LerPosicoesEspecificasArquivoTXT.dll
+D:\Estudo de Desenvolvimento\CSharp\LerPosicoesEspecificasArquivoTXT\obj\Debug\net6.0\LerPosicoesEspecificasArquivoTXT.pdb
+D:\Estudo de Desenvolvimento\CSharp\LerPosicoesEspecificasArquivoTXT\obj\Debug\net6.0\LerPosicoesEspecificasArquivoTXT.genruntimeconfig.cache
+D:\Estudo de Desenvolvimento\CSharp\LerPosicoesEspecificasArquivoTXT\obj\Debug\net6.0\ref\LerPosicoesEspecificasArquivoTXT.dll
