@@ -9,7 +9,7 @@ int colunaFim = 18;
 try
 {
     // Ler todas as linhas do arquivo
-    string[] lines = File.ReadAllLines(@"D:\Estudo de Desenvolvimento\CSharp\LerArquivoTXT\Arquivo.txt");
+    string[] lines = File.ReadAllLines(@"D:\Estudo de Desenvolvimento\CSharp\LerPosicoesEspecificasArquivo\Arquivo.txt");
 
     // Verifica se a linha solicitada existe
     if (numeroLinha <= lines.Length)
